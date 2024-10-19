@@ -160,7 +160,7 @@ const AllNFT = () => {
 
 function NotFound(props){
   return (
-    <div class="fixed z-10 ">
+    <div class="fixed z-11 ">
       <div class="flex flex-col p-4 mr-10">
        
         <div class="rounded-lg bg-transparent text-left shadow-xl mt-20">
