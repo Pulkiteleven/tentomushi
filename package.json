@@ -13,7 +13,7 @@
     "@material-tailwind/react": "^2.1.9",
     "@pinata/sdk": "^2.1.0",
     "axios": "^1.7.2",
-    "ethers": "^6.13.4",
+    "ethers": "^5.7.1",
     "flowbite": "^2.4.1",
     "flowbite-react": "^0.10.1",
     "generate-avatar": "^1.4.10",
